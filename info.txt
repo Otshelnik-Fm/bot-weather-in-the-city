@@ -1,0 +1,8 @@
+Name: Bot Weather In The City;
+Version: 1.0;
+Support Core: 16.13.0;
+Parent Addon: autobot-cabinet;
+Description: По команде в чат выводит погоду в заданном городе;
+Author: Владимир Дружаев (Otshelnik-Fm);
+Author URI: https://otshelnik-fm.ru/;
+Add-on URI: https://codeseller.ru/products/bot-weather-in-the-city/;
